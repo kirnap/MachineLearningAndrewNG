@@ -4,7 +4,7 @@ The homeworks given during the lectures are solved and related explanations can 
 
 ## Contact
 ---
-In case any of explanation needed plesase contact: okirnap@gmail.com
+In case any of explanation needed or any better implentation that you have plesase contact: okirnap@gmail.com
 
 ## Requirements 
 ---
