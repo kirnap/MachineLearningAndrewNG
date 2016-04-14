@@ -8,4 +8,4 @@ In case any of explanation needed or any better implementation that you have ple
 
 ## Requirements 
 ---
-[Octave](http://wiki.octave.org/Main_Page) programming environment or [Matlab](http://www.mathworks.com/products/matlab/) can be used to solve algorithmic problems easier than other programming languages. Moreover, [Julia](http://julialang.org) is becomming popular in intensive computation required cases
+[Octave](http://wiki.octave.org/Main_Page) programming environment or [Matlab](http://www.mathworks.com/products/matlab/) can be used to solve algorithmic problems easier than other programming languages. Moreover, [Julia](http://julialang.org) is becoming popular in intensive computation required cases
